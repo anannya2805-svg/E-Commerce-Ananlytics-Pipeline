@@ -111,7 +111,7 @@ Star Schema → Dashboard → Insights
    demonstrate a complete data 
    cleaning workflow.
 
-2. Single Year Data
+2. Single Year 
    Data covers only 2023 so year 
    over year comparison is not possible.
 
