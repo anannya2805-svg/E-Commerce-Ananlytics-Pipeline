@@ -22,8 +22,8 @@ Star Schema → Dashboard → Insights
 ---
 
 ## 📊 Dashboard Preview
-![Overview](screenshots/overview.png)
-![Products](screenshots/product_&_category_analysis.png)
+![Overview](dashboard/overview.png)
+![Products](dashboard/product_&_category_analysis.png)
 
 ---
 
