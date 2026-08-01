@@ -28,38 +28,42 @@ Star Schema → Dashboard → Insights
 ---
 
 ## 💡 Key Business Insights
-1. Ergonomic Chair generates 39K — 
-   70% of total revenue — making it 
+1. Ergonomic Chair generates 39K which 
+   is 70% of total revenue making it 
    the most critical product for 
-   the business
+   the business.
 
-2. Wireless Mouse sold most units (172) 
-   but earned least revenue (4K) while 
-   Ergonomic Chair earned 39K from 
-   156 units — high volume does not 
-   always mean high revenue
+2. Wireless Mouse sold the most units 
+   (172) but earned the least revenue 
+   (4K) while Ergonomic Chair earned 
+   39K from just 156 units proving 
+   that high volume does not always 
+   mean high revenue.
 
-3. New York earned lowest revenue (7K) 
-   despite being a major market — 
-   Phoenix led with 15.2K showing 
-   a clear untapped opportunity 
-   in New York
+3. New York earned the lowest revenue 
+   of 7K despite being a major market 
+   while Phoenix led all cities with 
+   15.2K indicating a clear untapped 
+   growth opportunity in New York.
 
-4. Furniture alone drives 70% of revenue 
-   with Electronics at 20% and Office 
-   Supplies at 10% — heavy dependency 
-   on one category is a business risk
+4. Furniture alone drives 70% of total 
+   revenue with Electronics contributing 
+   20% and Office Supplies only 10% 
+   which makes the business heavily 
+   dependent on a single category 
+   and creates a significant risk.
 
 5. September 2023 was the lowest 
-   performing month of the year — 
+   performing month of the entire year 
    indicating a seasonal dip that 
-   requires planned attention
+   requires planned promotional attention.
 
-6. Sales standard deviation of 331.39 
-   exceeds median order value of 125 — 
-   revenue is largely driven by 
-   occasional large orders making 
-   it inconsistent and unpredictable
+6. The sales standard deviation of 331.39 
+   exceeds the median order value of 125 
+   which means revenue is largely driven 
+   by occasional large orders rather than 
+   consistent customer spending making 
+   it unpredictable.
 
 
 
@@ -111,13 +115,13 @@ Star Schema → Dashboard → Insights
    Data covers only 2023 so year 
    over year comparison is not possible.
 
-3. NULL Dates Affect Monthly Trend
-   Some records have missing dates 
+3. NULL Dates affect monthly trend,
+   some records have missing dates 
    making monthly trend approximate.
    Rows were kept intentionally to 
    preserve valid sales and quantity data.
 
-4. No Profit Data
-   Dataset only contains revenue — 
+4. No profit data
+   dataset only contains revenue,
    actual profitability of products 
    and cities cannot be determined.
