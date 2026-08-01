@@ -1,0 +1,216 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Customer_City,Product_ID,Product_Name,Category,Unit_Price,Quantity,Total_Sales
+1096,27-07-2023,C01,Alice Smith,New York,P04,ergonomic chair,Furniture,250,1,250
+1166,27-10-2023,C01,Alice Smith,New York,P03,Desk Lamp,Office Supplies,35,5,175
+1139,20-07-2023,C05,Evan Davis   ,Phoenix,P04,Ergonomic Chair,Furniture,,3,
+1177,20-Feb-23,C03,Charlie Brown,Chicago,P03,Desk Lamp,Office Supplies,35,4,140
+1016,07-04-2023,C05,Evan Davis,Phoenix,P02,Mechanical Keyboard,Electronics,75,5,375
+1112,27-08-2023,C04,Diana Prince,Houston,P01,Wireless Mouse,Electronics,25,-3,-75
+1169,18-05-2023,C02,Bob Johnson   ,Los Angeles,P01,Wireless Mouse,Electronics,25,4,100
+1074,,C04,Diana Prince   ,Houston,P01,Wireless Mouse,Electronics,25,5,125
+1129,08-12-2023,C03,Charlie Brown,Chicago,P04,Ergonomic Chair,Furniture,,3,
+1140,08-07-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,4,1000
+1159,18-11-2023,C04,Diana Prince,Houston,P02,mechanical keyboard,Electronics,75,3,225
+1031,23-10-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,,4,
+1187,10-05-2023,C02,Bob Johnson,Los Angeles,P01,Wireless Mouse,Electronics,25,4,100
+1010,10-03-2023,C03,Charlie Brown,Chicago,P04,ergonomic chair,Furniture,250,1,250
+1068,07-03-2023,C02,Bob Johnson,Los Angeles,P04,Ergonomic Chair,Furniture,250,1,250
+1176,15-12-2023,C05,Evan Davis,Phoenix,P01,Wireless Mouse,Electronics,25,1,25
+1172,19-06-2023,C03,Charlie Brown,Chicago,P04,Ergonomic Chair,Furniture,250,5,1250
+1019,11-09-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,,2,
+1154,08-Nov-23,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,-3,-75
+1067,01-07-2023,C02,Bob Johnson,Los Angeles,P02,Mechanical Keyboard,Electronics,,1,
+1186,04-02-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,1,250
+1143,07-02-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,4,100
+1080,23-01-2023,C02,Bob Johnson,Los Angeles,P01,wireless mouse,Electronics,25,2,50
+1026,27-Oct-23,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,2,70
+1105,30-07-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,3,750
+1146,29-05-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,5,125
+1190,03-08-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,-4,-100
+1017,26-02-2023,C04,Diana Prince   ,Houston,P01,Wireless Mouse,Electronics,25,4,100
+1046,04-07-2023,C02,Bob Johnson   ,Los Angeles,P03,desk lamp,Office Supplies,35,1,35
+1151,01-12-2023,C01,Alice Smith,New York,P02,Mechanical Keyboard,Electronics,75,2,150
+1109,21-03-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,,3,
+1056,09-07-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,3,750
+1113,23-Dec-23,C01,Alice Smith,New yorK ,P02,Mechanical Keyboard,Electronics,75,2,150
+1192,02-12-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,5,175
+1125,07-12-2023,C04,Diana Prince   ,Houston,P01,Wireless Mouse,Electronics,25,4,100
+1129,08-12-2023,C03,Charlie Brown,Chicago,P04,Ergonomic Chair,Furniture,,3,
+1076,15-03-2023,C01,Alice Smith,New York,P03,Desk Lamp,Office Supplies,35,5,175
+1136,23-09-2023,C02,Bob Johnson,Los Angeles,P01,Wireless Mouse,Electronics,25,-3,-75
+1119,07-08-2023,C05,Evan Davis   ,Phoenix,P02,Mechanical Keyboard,Electronics,,5,
+1099,21-05-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,1,35
+1097,,C04,Diana Prince,Houston,P03,Desk Lamp,Office Supplies,35,2,70
+1184,13-06-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,2,500
+1118,28-11-2023,C03,Charlie Brown,Chicago,P03,Desk Lamp,Office Supplies,35,2,70
+,30-03-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,4,1000
+1085,26-01-2023,C01,Alice Smith,New York,P03,desk lamp,Office Supplies,35,2,70
+1096,27-07-2023,C01,Alice Smith,New York,P04,ergonomic chair,Furniture,250,1,250
+1138,18-10-2023,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,4,300
+1067,01-07-2023,C02,Bob Johnson,Los Angeles,P02,Mechanical Keyboard,Electronics,,1,
+1087,04-04-2023,C04,Diana Prince,Houston,P01,Wireless Mouse,Electronics,25,4,100
+1163,23-08-2023,C02,Bob Johnson,Los Angeles,P01,Wireless Mouse,Electronics,25,2,50
+1153,04-07-2023,C03,Charlie Brown,Chicago,P03,Desk Lamp,Office Supplies,,2,
+1039,18-07-2023,C03,Charlie Brown   ,Chicago,P04,Ergonomic Chair,Furniture,250,1,250
+1025,15-Jul-23,C01,Alice Smith   ,New York,P02,Mechanical Keyboard,Electronics,75,5,375
+1166,27-10-2023,C01,Alice Smith,New York,P03,Desk Lamp,Office Supplies,35,5,175
+1121,14-12-2023,C03,Charlie Brown   ,Chicago,P02,Mechanical Keyboard,Electronics,75,1,75
+1030,22-09-2023,C02,Bob Johnson,Los Angeles,P02,Mechanical Keyboard,Electronics,75,1,75
+1020,06-12-2023,C05,Evan Davis   ,Phoenix,P03,Desk Lamp,Office Supplies,35,4,140
+1070,04-07-2023,C02,Bob Johnson   ,Los Angeles,P03,Desk Lamp,Office Supplies,35,4,140
+1098,01-04-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,3,105
+1061,21-05-2023,C03,Charlie Brown,Chicago,P03,Desk Lamp,Office Supplies,35,4,140
+1069,17-10-2023,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,4,300
+1006,27-06-2023,C04,Diana Prince,Houston,P01,Wireless Mouse,Electronics,25,5,125
+1137,06-06-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,3,750
+1057,30-11-2023,C05,Evan Davis   ,Phoenix,P04,Ergonomic Chair,Furniture,250,4,1000
+1101,26-Jun-23,C05,Evan Davis,Phoenix,P04,ergonomic chair,Furniture,250,5,1250
+1199,28-10-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,1,35
+1083,09-08-2023,C03,Charlie Brown,Chicago,P03,Desk Lamp,Office Supplies,35,2,70
+1066,09-01-2023,C03,Charlie Brown   ,Chicago,P02,Mechanical Keyboard,Electronics,75,4,300
+1110,,C02,Bob Johnson,Los Angeles,P02,Mechanical Keyboard,Electronics,75,2,150
+1183,13-11-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,1,250
+1032,12-11-2023,C01,Alice Smith,New York,P02,Mechanical Keyboard,Electronics,75,5,375
+1013,13-11-2023,C01,Alice Smith,New York,P01,wireless mouse,Electronics,25,4,100
+1036,30-Dec-23,C05,Evan Davis,Phoenix,P01,Wireless Mouse,Electronics,25,5,125
+1029,29-07-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,5,175
+1043,10-02-2023,C05,Evan Davis,Phoenix,P01,Wireless Mouse,Electronics,25,5,125
+1160,10-10-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,,4,
+1102,22-04-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,3,105
+1147,,C01,Alice Smith,New York,P03,Desk Lamp,Office Supplies,35,3,105
+1052,02-04-2023,C03,Charlie Brown,Chicago,P02,Mechanical Keyboard,Electronics,75,5,375
+1116,05-03-2023,C01,Alice Smith,New York,P04,Ergonomic Chair,Furniture,250,3,750
+,09-09-2023,C02,Bob Johnson,LA,P01,Wireless Mouse,Electronics,25,3,75
+1077,28-10-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,,2,
+1042,23-01-2023,C02,Bob Johnson,Los Angeles,P02,Mechanical Keyboard,Electronics,75,1,75
+1133,08-04-2023,C03,Charlie Brown,Chicago,P03,Desk Lamp,Office Supplies,35,3,105
+1079,06-07-2023,C03,Charlie Brown,Chicago,P01,wireless mouse,Electronics,25,5,125
+1128,23-01-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,2,70
+1027,20-12-2023,C02,Bob Johnson,Los Angeles,P01,Wireless Mouse,Electronics,25,4,100
+1144,09-06-2023,C03,Charlie Brown,Chicago,P04,Ergonomic Chair,Furniture,250,3,750
+1114,20-Feb-23,C02,Bob Johnson,Los Angeles,P04,Ergonomic Chair,Furniture,250,4,1000
+1126,,C03,Charlie Brown,Chicago,P04,Ergonomic Chair,Furniture,250,3,750
+1003,16-11-2023,C03,Charlie Brown,Chicago,P04,Ergonomic Chair,Furniture,250,2,500
+1078,12-Mar-23,C04,Diana Prince,Houston,P04,ergonomic chair,Furniture,250,5,1250
+1047,31-12-2023,C02,Bob Johnson,Los Angeles,P04,Ergonomic Chair,Furniture,250,3,750
+1079,06-07-2023,C03,Charlie Brown,Chicago,P01,wireless mouse,Electronics,25,5,125
+1116,05-03-2023,C01,Alice Smith,New York,P04,Ergonomic Chair,Furniture,250,3,750
+1091,29-08-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,1,25
+1086,21-01-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,3,750
+1145,17-12-2023,C03,Charlie Brown   ,Chicago,P04,Ergonomic Chair,Furniture,250,5,1250
+1037,26-04-2023,C01,Alice Smith   ,New York,P01,Wireless Mouse,Electronics,25,2,50
+1123,08-03-2023,C04,Diana Prince   ,Houston,P01,Wireless Mouse,Electronics,25,2,50
+1062,04-02-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,,2,
+1023,04-08-2023,C05,Evan Davis,Phoenix,P01,Wireless Mouse,Electronics,,1,
+1142,04-05-2023,C03,Charlie Brown   ,Chicago,P01,Wireless Mouse,Electronics,25,4,100
+1120,07-07-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,5,125
+1034,14-06-2023,C04,Diana Prince,Houston,P03,desk lamp,Office Supplies,35,1,25
+1012,21-01-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,4,140
+1046,04-07-2023,C02,Bob Johnson   ,Los Angeles,P03,desk lamp,Office Supplies,35,1,35
+1171,23-07-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,3,75
+1007,08-10-2023,C02,Bob Johnson   ,Los Angeles,P01,Wireless Mouse,Electronics,25,3,75
+1028,31-Jan-23,C01,Alice Smith,New York,P03,Desk Lamp,Office Supplies,35,-1,-35
+1197,22-07-2023,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,1,75
+1070,04-07-2023,C02,Bob Johnson   ,Los Angeles,P03,Desk Lamp,Office Supplies,35,4,140
+1148,29-01-2023,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,1,75
+1005,01-12-2023,C02,Bob Johnson   ,Los Angeles,P04,ergonomic chair,Furniture,250,5,1250
+1033,13-04-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,2,500
+1016,07-04-2023,C05,Evan Davis,Phoenix,P02,Mechanical Keyboard,Electronics,75,5,375
+1156,22-02-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,4,1000
+1173,20-06-2023,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,1,75
+1155,05-11-2023,C05,Evan Davis,Phoenix,P01,Wireless Mouse,Electronics,25,2,50
+1115,04-08-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,,4,
+1011,07-12-2023,C03,Charlie Brown,Chicago,P02,Mechanical Keyboard,Electronics,75,5,375
+1063,14-09-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,2,70
+1127,19-03-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,4,100
+1157,21-04-2023,C04,Diana Prince,Houston,P03,Desk Lamp,Office Supplies,,1,
+1178,19-10-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,1,35
+1001,25-10-2023,C05,Evan Davis,Phoenix,P03,desk lamp,Office Supplies,35,5,175
+1194,,C02,Bob Johnson,Los Angeles,P02,Mechanical Keyboard,Electronics,75,1,75
+1164,26-06-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,2,500
+1071,17-02-2023,C02,Bob Johnson,Los Angeles,P04,Ergonomic Chair,Furniture,250,4,1000
+1182,05-06-2023,C02,Bob Johnson,Los Angeles,P03,desk lamp,Office Supplies,35,5,175
+1065,02-08-2023,C01,Alice Smith,New York,P04,Ergonomic Chair,Furniture,250,3,750
+1045,20-06-2023,C01,Alice Smith,New yorK ,P01,Wireless Mouse,Electronics,25,2,50
+1141,30-12-2023,C03,Charlie Brown,Chicago,P02,Mechanical Keyboard,Electronics,75,3,225
+1041,22-03-2023,C02,Bob Johnson,LA,P03,Desk Lamp,Office Supplies,35,2,70
+1124,22-Jun-23,C03,Charlie Brown   ,Chicago,P02,Mechanical Keyboard,Electronics,75,-3,-225
+1024,03-09-2023,C02,Bob Johnson,Los Angeles,P04,Ergonomic Chair,Furniture,250,4,1000
+1162,25-10-2023,C03,Charlie Brown,Chicago,P03,Desk Lamp,Office Supplies,35,4,140
+1193,24-05-2023,C05,Evan Davis,Phoenix,P02,Mechanical Keyboard,Electronics,75,5,375
+1082,17-08-2023,C01,Alice Smith,New York,P03,Desk Lamp,Office Supplies,35,1,35
+1040,26-02-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,4,140
+1181,07-11-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,3,105
+1048,25-11-2023,C01,Alice Smith,New York,P04,Ergonomic Chair,Furniture,250,2,500
+1095,,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,3,105
+1165,25-07-2023,C05,Evan Davis,Phoenix,P01,Wireless Mouse,Electronics,25,5,125
+1044,29-Dec-23,C01,Alice Smith   ,New York,P04,Ergonomic Chair,Furniture,250,2,500
+1149,28-02-2023,C05,Evan Davis,Phoenix,P01,Wireless Mouse,Electronics,25,2,50
+1004,12-01-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,2,50
+1106,07-02-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,3,75
+1054,09-09-2023,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,3,225
+1134,24-07-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,3,750
+1195,13-05-2023,C03,Charlie Brown,Chicago,P04,Ergonomic Chair,Furniture,250,2,500
+1168,01-08-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,3,105
+1200,21-09-2023,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,2,150
+1050,24-08-2023,C03,Charlie Brown,Chicago,P03,Desk Lamp,Office Supplies,35,2,70
+1081,28-Jan-23,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,4,140
+1035,28-08-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,2,70
+1008,17-06-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,4,140
+1111,14-Aug-23,C04,Diana Prince,Houston,P01,Wireless Mouse,Electronics,25,3,65
+1092,,C03,Charlie Brown,Chicago,P04,Ergonomic Chair,Furniture,250,3,750
+1084,,C01,Alice Smith,New York,P03,Desk Lamp,Office Supplies,35,1,35
+1191,26-03-2023,C04,Diana Prince,Houston,P01,wireless mouse,Electronics,25,2,50
+1196,09-04-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,-3,-75
+1090,,C03,Charlie Brown,Chicago,P02,Mechanical Keyboard,Electronics,75,4,300
+1009,07-01-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,1,250
+1014,17-05-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,4,100
+1060,29-09-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,1,25
+1185,19-10-2023,C01,Alice Smith,New York,P04,Ergonomic Chair,Furniture,250,3,750
+1132,17-05-2023,C04,Diana Prince,Houston,P03,Desk Lamp,Office Supplies,35,3,105
+1018,26-03-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,3,750
+1167,22-06-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,2,50
+1073,06-01-2023,C02,Bob Johnson,Los Angeles,P03,Desk Lamp,Office Supplies,35,1,35
+1175,15-Apr-23,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,2,150
+1135,19-10-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,2,50
+1179,20-11-2023,C01,Alice Smith,New York,P02,Mechanical Keyboard,Electronics,75,5,375
+1198,15-08-2023,C04,Diana Prince   ,Houston,P01,Wireless Mouse,Electronics,25,5,125
+1064,13-06-2023,C03,Charlie Brown,Chicago,P02,Mechanical Keyboard,Electronics,75,3,225
+1055,01-04-2023,C04,Diana Prince,Houston,P01,Wireless Mouse,Electronics,25,3,75
+1108,28-01-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,5,1250
+1051,28-07-2023,C05,Evan Davis,Phoenix,P04,Ergonomic Chair,Furniture,250,3,800
+1175,15-Apr-23,C04,Diana Prince,Houston,P02,Mechanical Keyboard,Electronics,75,2,150
+1183,13-11-2023,C04,Diana Prince,Houston,P04,Ergonomic Chair,Furniture,250,1,250
+1170,01-06-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,5,125
+1059,,C02,Bob Johnson,Los Angeles,P04,Ergonomic Chair,Furniture,250,2,500
+1049,16-08-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,2,50
+1089,21-09-2023,C04,Diana Prince,Houston,P03,Desk Lamp,Office Supplies,35,4,140
+1022,05-12-2023,C04,Diana Prince,Houston,P03,Desk Lamp,Office Supplies,35,2,70
+,13-11-2023,C02,Bob Johnson   ,Los Angeles,P04,Ergonomic Chair,Furniture,250,3,750
+1161,13-02-2023,C05,Evan Davis,Phoenix,P04,ergonomic chair,Furniture,250,1,250
+1171,23-07-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,3,75
+1188,09-04-2023,C04,Diana Prince,Houston,P03,Desk Lamp,Office Supplies,35,5,175
+1130,20-08-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,4,100
+1038,19-03-2023,C02,Bob Johnson,Los Angeles,P02,Mechanical Keyboard,Electronics,75,-5,-375
+1158,02-11-2023,C02,Bob Johnson   ,Los Angeles,P04,Ergonomic Chair,Furniture,250,5,1250
+1159,18-11-2023,C04,Diana Prince,Houston,P02,mechanical keyboard,Electronics,75,3,225
+1002,09-Apr-23,C04,Diana Prince,Houston,P03,Desk Lamp,Office Supplies,35,3,105
+1053,10-03-2023,C01,Alice Smith,New York,P02,mechanical keyboard,Electronics,,1,
+1150,03-09-2023,C01,Alice Smith,New York,P01,wireless mouse,Electronics,25,2,50
+1131,06-11-2023,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,1,35
+1152,23-May-23,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,4,140
+1104,05-05-2023,C04,Diana Prince,Houston,P01,Wireless Mouse,Electronics,25,2,50
+1100,26-11-2023,C04,Diana Prince   ,Houston,P03,Desk Lamp,Office Supplies,35,1,35
+1117,08-10-2023,C04,Diana Prince,Houston,P01,Wireless Mouse,Electronics,25,4,100
+1088,22-05-2023,C02,Bob Johnson,Los Angeles,P04,Ergonomic Chair,Furniture,250,4,1000
+1031,23-10-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,,4,
+1075,28-06-2023,C05,Evan Davis   ,Phoenix,P04,Ergonomic Chair,Furniture,250,5,1250
+1122,08-05-2023,C02,Bob Johnson,Los Angeles,P01,Wireless Mouse,Electronics,25,1,25
+1187,10-05-2023,C02,Bob Johnson,Los Angeles,P01,Wireless Mouse,Electronics,25,4,100
+1021,10-07-2023,C01,Alice Smith,New yorK ,P04,Ergonomic Chair,Furniture,250,1,250
+1189,15-12-2023,C05,Evan Davis   ,Phoenix,P01,Wireless Mouse,Electronics,25,2,50
+1072,20-Feb-23,C05,Evan Davis,Phoenix,P03,Desk Lamp,Office Supplies,35,2,120
+1107,21-08-2023,C05,Evan Davis,Phoenix,P02,Mechanical Keyboard,Electronics,75,4,300
+1015,21-04-2023,C05,Evan Davis,Phoenix,P01,Wireless Mouse,Electronics,25,2,50
+1093,12-04-2023,C01,Alice Smith,New York,P01,Wireless Mouse,Electronics,25,3,75
+1180,01-07-2023,C01,Alice Smith,New York,P03,desk lamp,Office Supplies,35,4,140
+1103,08-04-2023,C03,Charlie Brown,Chicago,P01,Wireless Mouse,Electronics,25,5,125
