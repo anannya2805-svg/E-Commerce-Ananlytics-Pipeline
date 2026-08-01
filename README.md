@@ -97,10 +97,10 @@ Star Schema → Dashboard → Insights
 ---
 
 ## 📁 Repository Structure
-- data/ — Raw dataset
-- sql/ — All SQL queries
-- dashboard/ — PDF dashboard
-- screenshots/ — Dashboard previews
+- Data — Raw dataset
+- SQL— All SQL queries
+- Dashboard — PDF dashboard
+- Screenshots — Dashboard previews
 
 ---
 
